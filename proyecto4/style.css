@@ -1,0 +1,39 @@
+body{
+    background-color: #1655AE;
+   
+
+}
+.container{
+    background-color: white;
+    max-width: 400px;
+    margin-top: 250px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: absolute;
+    
+}
+.titulo{
+    display: flex;
+}
+.logo{
+    
+}
+.texto{
+    margin-left: 10px;
+}
+.botones{
+    display: grid;
+
+    
+    
+}
+#blue-button{
+    padding: 10px 150px ;
+    margin-left: 15px;
+    color: #FFFFFF;
+    background-color: #47AEE7;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
